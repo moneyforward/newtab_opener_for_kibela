@@ -20,6 +20,16 @@ Kibela記事内のリンクをクリックすると、別タブでなく同タ�
 
 <br>
 
+## 注意事項
+**manifest.json**の"icons"の画像は、各自で用意してダウンロード（クローン）したフォルダに格納してください。
+
+必要な画像ファイル：
+- kibe16.png (16 x 16 px)
+- kibe48.png (48 x 48 px)
+- kibe128.png (128 x 128 px)
+
+<br>
+
 ## 使用方法
 1. [Chromeウェブストア](https://chrome.google.com/webstore/detail/newtab-opener-for-kibela/iobjpkjnjbcpcpjcomgidinmdmpcjfdj) **にアクセス**
 2. **「Chromeに追加」ボタンをクリック**
