@@ -1,9 +1,14 @@
 {
   "name": "NewTab Opener for Kibela",
   "short_name": "Kibela Opener",
-  "description": "open links in a kibela's article in a new tab",
-  "version": "1.0.1",
+  "description": "Kibela記事の中にある外部リンク(URL)をクリックすると、新規タブで開きます。\n\nThis extension will automatically open in a new tab when you click on a link in a Kibela's article.",
+  "version": "1.0.2",
   "manifest_version": 2,
+  "icons": {
+    "16": "kibe16.png",
+    "48": "kibe48.png",
+    "128": "kibe128.png"
+  },
   "content_scripts": [
     {
       "matches": [
