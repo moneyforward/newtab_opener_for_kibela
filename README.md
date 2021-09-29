@@ -21,7 +21,7 @@ Kibela記事内のリンクをクリックすると、別タブでなく同タ�
 <br>
 
 ## 使用方法
-1. **Chromeウェブストア（パブリック化後、ここにリンクを貼る）にアクセス**
+1. [Chromeウェブストア](https://chrome.google.com/webstore/detail/newtab-opener-for-kibela/iobjpkjnjbcpcpjcomgidinmdmpcjfdj) **にアクセス**
 2. **「Chromeに追加」ボタンをクリック**
 
 以上の２ステップのみで使えるようになります！　
