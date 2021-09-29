@@ -2,13 +2,8 @@
   "name": "NewTab Opener for Kibela",
   "short_name": "Kibela Opener",
   "description": "open links in a kibela's article in a new tab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
-  "icons": {
-    "16": "16_wanwan.jpg",
-    "48": "48_wanwan.jpg",
-    "128": "128_wanwan.jpg"
-},
   "content_scripts": [
     {
       "matches": [
