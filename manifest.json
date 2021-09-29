@@ -8,7 +8,7 @@
     "16": "kibe16.png",
     "48": "kibe48.png",
     "128": "kibe128.png"
-},
+  },
   "content_scripts": [
     {
       "matches": [
